@@ -1,0 +1,36 @@
+body h2 {
+  text-align: center;
+}
+
+#left {
+  float: left;
+  margin-left: 100px;
+}
+
+#right {
+  float: right;
+}
+#addContacts input {
+  padding: 6px;
+  margin-bottom: 15px;
+}
+#addContacts button {
+  padding: 5px;
+  width: 60px;
+}
+
+#searchContacts form {
+  margin-right: 250px;
+}
+#searchContacts input {
+  padding: 6px;
+  margin-bottom: 15px;
+}
+#searchContacts button {
+  padding: 5px;
+  width: 60px;
+}
+.row tr td {
+  width: 190px;
+  padding: 5px 0px 5px;
+}
